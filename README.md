@@ -1,4 +1,8 @@
-# The Ako App by Dexter Labs
+# The Àájọ App by Dexter Labs
 
-### Figma Design
-https://www.figma.com/design/XlLhMtWZs5Std9Bq57YiJX/The-Ako-App?node-id=0-1&p=f&t=B2rsaXXtxaidpCA4-0
+### Figma Design URL
+https://www.figma.com/design/XlLhMtWZs5Std9Bq57YiJX/Aajo-App-by-Dexter-Labs---K-Tech-Fest?m=auto&t=6PG2qfY49fNfkln9-6
+
+### Pitch Deck URL
+https://www.figma.com/deck/VXyH1Ntql4bisdTOBg7O5r
+
